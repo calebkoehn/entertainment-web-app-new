@@ -47,7 +47,7 @@
 </template>
 
 <script>
-import EssentialLink from 'components/EssentialLink.vue'
+import EssentialLink from 'src/components/EssentialLink.vue'
 
 const linksData = [
   {
